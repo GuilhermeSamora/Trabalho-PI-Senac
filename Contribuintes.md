@@ -9,5 +9,7 @@
 
 <h3> Gustavo Henrique Coelho Eleuterio </h3>
 
+<h3> Guilherme Jace Samora <h3>
+
 
 
